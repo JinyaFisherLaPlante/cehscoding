@@ -12,7 +12,7 @@ Nathan loves to develop tools and make embedded projects.  His favorite device i
 
 Nathan uses C++ when creating projects with Photons, Bash when creating tools, and JavaScript when creating responsive websites.
 
-Nathan's full portfolio of projects and achievements can be found at [nrobinson.me](https://nrobinson.me).
+Nathan's full portfolio of projects and achievements can be found at [nrobinson2000.me](https://nrobinson2000.me).
 
 Nathan is the manager of the CEHS Coding website, Twitter and Slack. He also leads the club meetings.
 
@@ -37,6 +37,7 @@ William uses Javascript and HTML5 for most of his projects (so far only games).
 
 He really wants to learn more about HTML5 through this club.
 
+
 >"I am a scrublord"
 >
 >William Jordan September 5, 2016.
@@ -47,9 +48,9 @@ He really wants to learn more about HTML5 through this club.
 
 <hr>
 
-## Máximo Kesselhaut
-Maximo is a sophomore in the CEHS Coding Club.
-
-<hr>
-
 ## Hunter Grimes
+
+
+## Jinya Fisher-LaPlante
+
+Jinya is a freshman member of Coding Club
